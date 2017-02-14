@@ -207,7 +207,8 @@
         <version>${cobertura.version}</version>
         <configuration>
           <formats>
-            <format>html</format>
+            <format>xml</format>
+			<format>html</format>
           </formats>
           <check />
         </configuration>
